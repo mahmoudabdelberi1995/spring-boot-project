@@ -1,0 +1,7 @@
+package com.demo.entity;
+
+public enum ERole {
+	ROLE_USER,
+    ROLE_FORMATEUR,
+    ROLE_ADMIN
+}
